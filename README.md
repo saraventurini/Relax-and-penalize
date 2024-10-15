@@ -2,7 +2,7 @@
 This repository contains the codes of the paper "Relax and penalize: a new bilevel approach to mixed-binary hyperparameter optimization" by Marianna De Santis, Jordan Frecon-Deloir, Francesco Rinaldi, Saverio Salzo, Martin Schmidt, Sara Venturini.
 
 ## Two machine-learning applications 
-The two folders correspond to the Matlab Codes concerning the two applications included in the paper (Section 5.1): Group Lasso Structure and Data Distillation. 
+The two folders correspond to the Matlab Codes concerning the two applications included in the paper (Section 5): Group Lasso Structure and Data Distillation. 
 
 ### Group Lasso Structure (Subsection 5.1)
 #### Matlab codes:
@@ -48,7 +48,7 @@ We perform experiments over two real datasets:
 - blog: download the dataset at https://archive.ics.uci.edu/dataset/304/blogfeedback.
 The test data spanning from February to March 2012 are contained in different CSV files and merged in one file cvs through the script union_csv.m <br>
 
-The data are loaded in the dataset folder. <br>
+The data are loaded in the "dataset" folder. <br>
 Detailed information on the datasets are included in the Appendix of the paper. 
 
 
