@@ -1,5 +1,5 @@
 # Relax-and-penalize
-This repository contains the codes of the paper "Relax and penalize: a new bilevel approach to mixed-binary hyperparameter optimization" by Marianna De Santis, Jordan Frecon-Deloir, Francesco Rinaldi, Saverio Salzo, Martin Schmidt, Sara Venturini.
+This repository contains the codes of the paper "Relax and penalize: a new bilevel approach to mixed-binary hyperparameter optimization" by Sara Venturini, Marianna De Santis, Jordan Frecon-Deloir, Martin Schmidt, Francesco Rinaldi, Saverio Salzo.
 
 ## Two machine-learning applications 
 The two folders correspond to the Matlab Codes concerning the two applications included in the paper (Section 5): Group Lasso Structure and Data Distillation. 
